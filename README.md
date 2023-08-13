@@ -74,6 +74,32 @@ Utilizing a suitable visualization, such as a pie chart or bar graph, to represe
 Using a chart or graph to illustrate the distribution of different position tiers within the company.
 
 
+## Insights
+
+- Most hired individuals are males, 6% prefer not to state gender.
+
+- Avg. Total Salary offered without Outliers is $49878
+
+- Avg. Total Salary offered with Outliers is $49976
+
+- 2892 employees had salary below $60000 out of total 4697 hired.
+
+- 1802 employees had salary above $60000 and below $100000 out of total 4697 hired.
+
+- Operation department had highest hires with 1843, followed by Service department with 1332 .
+
+- Same trend for department for all non hired individual as well.
+
+- Post c5 & c9 had the highest hired individuals, majority were males.
+
+- Post m6, m7, n6, n9, n10 were almost non existence.
+
+- Post c5 & c9 had majority of employees with salary below $40000.
+
+- Post c5 & c9 employees mostly belonged to Operations Department.
+
+- Service department also followed the same trends.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
