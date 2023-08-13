@@ -1,1 +1,92 @@
-# Hiring-Process-Analytics
+# Hiring Process Analytics
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## Description
+
+Welcome to the "Hiring Process Analytics" project! In this project, we'll dive into the world of data analysis to gain insights from a dataset containing records of previous hires within a multinational company. By analyzing this data, we aim to uncover valuable trends and information about the company's hiring process, which can contribute to making informed decisions and improvements for the future.
+
+## Project Overview
+
+As a data analyst in our hypothetical scenario, you'll be tasked with performing various data analysis tasks to gain insights into the hiring process. This involves handling missing data, simplifying the dataset, detecting and dealing with outliers, and summarizing your findings. Your main goal is to provide meaningful conclusions that can help the company enhance its hiring process and decision-making.
+## Project Structure
+
+The project repository is organized as follows:
+
+```
+
+├── LICENSE
+├── README.md          <- README .
+
+├── reports            <- Folder containing the final reports/results of this project.
+│   │
+│   └── Report.pdf     <- Final analysis report in PDF.
+│   
+├── src                <- Source for this project.
+│   │
+│   └── data           <- Datasets used and collected for this project.
+
+```
+
+## Project Tasks
+
+### 1. Handling Missing Data
+
+Inspect the dataset for any missing values and determine the most suitable strategy for handling them. This might involve filling in missing values with appropriate alternatives or removing records with missing data, depending on the situation.
+
+### 2. Clubbing Columns
+
+Simplify the dataset by combining categories within columns, where applicable. This step can streamline your analysis and help in drawing more accurate conclusions.
+
+### 3. Outlier Detection and Removal
+
+Identify potential outliers in the dataset that could skew your analysis. Decide on the appropriate approach for dealing with these outliers, whether it's removing them, replacing them with more representative values, or leaving them as they are.
+
+### 4. Data Summary
+
+After cleaning and preparing the data, summarize your findings. Calculate relevant statistical measures such as averages, medians, and other metrics. Utilize visualizations such as charts and graphs to enhance your understanding of the data.
+
+## Data Analytics Tasks
+
+To tackle the project, follow these data analytics tasks using Excel:
+
+### A. Hiring Analysis
+
+Your Task: Determine the gender distribution of hires. Calculate the number of males and females that have been hired by the company.
+
+### B. Salary Analysis
+
+Your Task: Calculate the average salary offered by the company using Excel functions.
+
+### C. Salary Distribution
+
+Your Task: Create class intervals for the salaries in the company. This will help you visualize and understand the distribution of salaries.
+
+### D. Departmental Analysis
+
+Your Task: Utilize a suitable visualization, such as a pie chart or bar graph, to represent the proportion of employees working in different departments.
+
+### E. Position Tier Analysis
+
+Your Task: Use a chart or graph to illustrate the distribution of different position tiers within the company.
+
+## Conclusion
+
+Through the "Hiring Process Analytics" project, you'll not only sharpen your data analysis skills but also contribute to the company's growth by providing insights that can enhance its hiring process. Remember, the ultimate goal is to turn data into actionable knowledge and enable better decision-making. Good luck on your data analysis journey!
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+## Author
+- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
+- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
+- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
+- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
+- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
+
+## Contact me!
+If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
